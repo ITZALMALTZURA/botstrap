@@ -1,3 +1,3 @@
-# A bootstrap 4 example
+# A bootstrap example
 
 ![](ss.png)
