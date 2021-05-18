@@ -29,6 +29,6 @@ body {
 }
 @media (max-width: 992px) {
   .home-inner {
-    padding-top: 150px;
+    padding-top: 50px;
   }
 }
