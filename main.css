@@ -25,10 +25,10 @@ body {
 }
 
 .home-inner {
-  padding-top: 100px;
+  padding-top: 200px;
 }
 @media (max-width: 992px) {
   .home-inner {
-    padding-top: 50px;
+    padding-top: 150px;
   }
 }
